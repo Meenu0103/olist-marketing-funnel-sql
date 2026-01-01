@@ -1,2 +1,3 @@
-# olist-marketing-funnel-sql
-End-to-end SQL project analyzing seller acquisition and marketing funnel performance using Olist CRM data.
+> This repository represents an early exploratory version of the project.  
+> The finalized and complete implementation is available in:
+> **olist-end-to-end-ecommerce-analytics**
